@@ -48,3 +48,4 @@
        $cat f3
 
 20. $head -n 7 country | tail -n 2
+//Mayur here... 
